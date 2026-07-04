@@ -20,6 +20,8 @@ cxx_compiler_version:
 - '19'
 glib:
 - '2'
+gpgme:
+- '1.24'
 libiconv:
 - '1'
 libidn2:
