@@ -28,7 +28,7 @@ requirements:
     - ${{ compiler('cxx') }}
     - ${{ stdlib('c') }}
     - make
-    - pkg-config
+    - pkgconf
   host:
     - glib
     - gpgme
